@@ -1,1 +1,1 @@
-# compiler-design-lab-in-c-programming
+# Structuted Computer Programming with C
