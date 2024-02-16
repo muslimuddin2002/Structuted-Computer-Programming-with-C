@@ -9,6 +9,6 @@ x=x*y;
 y=x/y;
 x=x/y;
 
-printf("After swapping a a= %d and b = %d\n",x,y);
+printf("After swapping a= %d and b = %d\n",x,y);
 return 0;
 }
